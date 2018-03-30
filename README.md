@@ -1,0 +1,2 @@
+# Happycoin-Mining
+Mining Program.
